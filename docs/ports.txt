@@ -1,0 +1,10 @@
+10.0.1.170
+
+PORT     STATE SERVICE
+80/tcp   open  http
+7676/tcp open  imqbrokerd
+8008/tcp open  http
+8009/tcp open  ajp13
+8443/tcp open  https-alt
+9000/tcp open  cslistener
+52323/tcp open  unknown
